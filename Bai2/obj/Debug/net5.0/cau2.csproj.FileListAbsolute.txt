@@ -1,0 +1,16 @@
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\cau2.exe
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\cau2.deps.json
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\cau2.runtimeconfig.json
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\cau2.runtimeconfig.dev.json
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\cau2.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\ref\cau2.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\bin\Debug\net5.0\cau2.pdb
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.csproj.AssemblyReference.cache
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.AssemblyInfoInputs.cache
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.AssemblyInfo.cs
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.csproj.CoreCompileInputs.cache
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\ref\cau2.dll
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.pdb
+C:\Users\MAR PHANTOM\Desktop\Bai Thi\cau2\obj\Debug\net5.0\cau2.genruntimeconfig.cache

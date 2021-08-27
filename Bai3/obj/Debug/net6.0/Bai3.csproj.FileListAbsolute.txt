@@ -1,0 +1,16 @@
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/bin/Debug/net6.0/Bai3
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/bin/Debug/net6.0/Bai3.deps.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/bin/Debug/net6.0/Bai3.runtimeconfig.json
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/bin/Debug/net6.0/Bai3.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/bin/Debug/net6.0/Bai3.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.csproj.AssemblyReference.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.AssemblyInfoInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.AssemblyInfo.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.ImplicitNamespaceImports.cs
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.csproj.CoreCompileInputs.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/refint/Bai3.dll
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.pdb
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/Bai3.genruntimeconfig.cache
+/Users/titrandiephuy/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CodeGym/Module 2 - C#/C# Exam/Bai3/obj/Debug/net6.0/ref/Bai3.dll
